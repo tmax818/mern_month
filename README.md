@@ -7,8 +7,8 @@
 
 | week | day |  assignment                                                                                     | type     |
 |------|-----|-------------------------------------------------------------------------------------------------|:--------:|
-| 1    | Mon | [Hoist](https://github.com/tmax818/hoistMern)                                                    | Practice |
-|      |     | [Predict Destructuring](https://github.com/tmax818/predictDestructuringMern)                     | Core     |
+| 1    | Mon | [Hoist](https://github.com/tmax818/hoist-mern)                                                  | Practice |
+|      |     | [Predict Destructuring](https://github.com/tmax818/predict-destructuring-mern)                  | Core     |
 
 
 
@@ -17,7 +17,7 @@
 
 | week | day |  assignment                                                                                     | type     |
 |------|-----|-------------------------------------------------------------------------------------------------|:--------:|
-| 1    | Mon | [Hello World](https://github.com/tmax818/hello_world_python)                                    | Practice |
+| 1    | Wed | [Hello World](https://github.com/tmax818/first-react-mern)                                      | Practice |
 
 
 
@@ -31,4 +31,4 @@
 
 | week | day |  assignment                                                  |
 |------|-----|--------------------------------------------------------------|
-| 1    | Mon | [Using React](https://github.com/tmax818/usingReactMern)|
+| 1    | Mon | [Using React](https://github.com/tmax818/using-react-mern)|
